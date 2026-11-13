@@ -1,0 +1,11 @@
+[
+  {
+    "id": "fridge-court",
+    "name": "Fridge Court",
+    "category": "Household optimization",
+    "tagline": "The coriander would like to address the household.",
+    "accent": "#c9cf88",
+    "number": "11",
+    "module": "fridge"
+  }
+]

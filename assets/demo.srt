@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:07,000
+Review confirmed stock
+The household ledger stores explicit quantities, units and user-entered dates.
+
+2
+00:00:07,000 --> 00:00:14,000
+Parse before committing
+Receipt text becomes reviewable lines. Parsing alone does not silently change inventory.
+
+3
+00:00:14,000 --> 00:00:21,000
+Optimize a feasible meal plan
+Integer optimization respects available ingredients, diet and budget. Dates are not food-safety guarantees.
+

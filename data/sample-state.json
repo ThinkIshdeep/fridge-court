@@ -1,0 +1,39 @@
+{
+  "day": 0,
+  "inventory": [
+    {
+      "name": "rice",
+      "quantity": 1000.0,
+      "unit": "g",
+      "expires": 35
+    },
+    {
+      "name": "tomato",
+      "quantity": 600.0,
+      "unit": "g",
+      "expires": 4
+    },
+    {
+      "name": "onion",
+      "quantity": 300.0,
+      "unit": "g",
+      "expires": 10
+    },
+    {
+      "name": "lentils",
+      "quantity": 400.0,
+      "unit": "g",
+      "expires": 60
+    },
+    {
+      "name": "egg",
+      "quantity": 6.0,
+      "unit": "pieces",
+      "expires": 12
+    }
+  ],
+  "events": [],
+  "receipt_preview": [],
+  "plan": [],
+  "last_result": null
+}
